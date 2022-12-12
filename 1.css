@@ -4857,3 +4857,7 @@ h3 .notion-page__icon div {
     left: calc(env(safe-area-inset-left) + 24px);
   }
 }
+
+.ad {
+    cursor:pointer;
+}
